@@ -181,6 +181,7 @@ python main.py
 
 ## 📸 Screenshots
 
+
 ### 📈 Temperature Trend
 ![Temperature Trend](images/01_temperature_trend.png)
 
