@@ -84,19 +84,15 @@ Climate-Trend-Analyzer/
 │   ├── anomaly_detection.py
 │   └── model.py
 │
-├── outputs/
-│   ├── graphs/
-│   │   ├── 01_temperature_trend.png
-│   │   ├── 02_temperature_trend_seaborn.png
-│   │   ├── 03_temperature_distribution.png
-│   │   ├── 04_country_wise_trend.png
-│   │   ├── 05_smoothed_trend.png
-│   │   ├── 06_monthly_variation.png
-│   │   ├── 07_anomaly_detection.png
-│   │   ├── 08_future_prediction.png
-│   │
-│   └── reports/
-│       └── summary.txt
+├── images/
+│   ├── 01_temperature_trend.png
+│   ├── 02_temperature_trend_seaborn.png
+│   ├── 03_temperature_distribution.png
+│   ├── 04_country_wise_trend.png
+│   ├── 05_smoothed_trend.png
+│   ├── 06_monthly_variation.png
+│   ├── 07_anomaly_detection.png
+│   ├── 08_future_prediction.png
 │
 ├── app/
 │   └── streamlit_app.py
@@ -186,31 +182,31 @@ python main.py
 ## 📸 Screenshots
 
 ### 📈 Temperature Trend
-![Temperature Trend](outputs/graphs/01_temperature_trend.png)
+![Temperature Trend](images/01_temperature_trend.png)
 
 ### 📊 Seaborn Trend Visualization
-![Seaborn Trend](outputs/graphs/02_seaborn_trend.png)
+![Seaborn Trend](images/02_seaborn_trend.png)
 
 ### 📉 Temperature Distribution
-![Temperature Distribution](outputs/graphs/03_distribution.png)
+![Temperature Distribution](images/03_distribution.png)
 
 ### 🌍 Country-wise Analysis
-![Country Analysis](outputs/graphs/04_country_analysis.png)
+![Country Analysis](images/04_country_analysis.png)
 
 ### 🚨 Anomaly Detection
-![Anomaly Detection](outputs/graphs/05_anomaly.png)
+![Anomaly Detection](images/05_anomaly.png)
 
 ### 🔮 Future Prediction
-![Future Prediction](outputs/graphs/06_prediction.png)
+![Future Prediction](images/06_prediction.png)
 
 ### 📋 Yearly Summary
-![Yearly Summary](outputs/graphs/07_yearly_summary_table.png)
+![Yearly Summary](images/07_yearly_summary_table.png)
 
 ### 🔥 Correlation Heatmap
-![Correlation Heatmap](outputs/graphs/08_correlation_heatmap.png)
+![Correlation Heatmap](images/08_correlation_heatmap.png)
 
 ### 🧪 Simulated Data
-![Simulated Data](outputs/graphs/09_simulated_data.png)
+![Simulated Data](images/09_simulated_data.png)
 
 ---
 
