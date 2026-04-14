@@ -186,25 +186,25 @@ python main.py
 ![Temperature Trend](images/01_temperature_trend.png)
 
 ### 📊 Seaborn Trend Visualization
-![Seaborn Trend](images/02_seaborn_trend.png)
+![Seaborn Trend](images/02_temperature_trend_seaborn.png)
 
 ### 📉 Temperature Distribution
-![Temperature Distribution](images/03_distribution.png)
+![Temperature Distribution](images/03_temperature_distribution.png)
 
 ### 🌍 Country-wise Analysis
-![Country Analysis](images/04_country_analysis.png)
+![Country Analysis](images/04_country_wise_trend.png)
 
 ### 🚨 Anomaly Detection
-![Anomaly Detection](images/05_anomaly.png)
+![Anomaly Detection](images/05_smoothed_trend.png)
 
 ### 🔮 Future Prediction
-![Future Prediction](images/06_prediction.png)
+![Future Prediction](images/06_monthly_variation.png)
 
 ### 📋 Yearly Summary
-![Yearly Summary](images/07_yearly_summary_table.png)
+![Yearly Summary](images/07_anomaly_detection.png)
 
 ### 🔥 Correlation Heatmap
-![Correlation Heatmap](images/08_correlation_heatmap.png)
+![Correlation Heatmap](images/08_future_prediction.png)
 
 ### 🧪 Simulated Data
 ![Simulated Data](images/09_simulated_data.png)
